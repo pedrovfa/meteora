@@ -1,0 +1,25 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;;
+
+}
+.cor-verde{
+    color: #DAFF01;
+}
+.cor-lilas{
+    color: white;
+    background-color: #9353ff;
+    
+}
+.posicao{
+    top: 40%;
+
+}
+@media(max-width:767px) {
+    .posicao{
+        top: 60%;
+    }
+    
+}
